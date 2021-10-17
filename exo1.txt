@@ -1,0 +1,80 @@
+    1  sudo apt update
+    2  sudo apt install texmaker
+    3  sudo apt install jupyter-notebook
+    4  sudo apt install sagemath
+    5  cd Téléchargements/ sudo apt install ./zoom
+    6  cd Téléchargements/
+    7  sudo apt install ./zoom
+    8  cd Téléchargements/
+    9  Ls
+   10  Ls zoom
+   11  ls zoom
+   12  ls
+   13  sudo apt install ./zoom
+   14  cd Téléchargements/
+   15  ls
+   16  sudo apt install ./zoom_amd64
+   17  sudo apt install ./zoom_amd64.deb 
+   18  sudo shutdown now
+   19  ls
+   20  python3
+   21  mkdir python-try
+   22  ls
+   23  cd python-try
+   24  touch first-python.py
+   25  gedit first-python.py
+   26  python3
+   27  jupiter/not book
+   28  jupiter-notebook
+   29  cat file.txt
+   30  cat
+   31  mkdir unix
+   32  cd unix/
+   33  touch foo.txt
+   34  ls
+   35  cp foo.txt foo.cop.txt
+   36  ls
+   37  rm foo.cop.txt 
+   38  ls
+   39  cp foo.txt foo-copy.txt
+   40  ls
+   41  mv foo-copy.txt foo2.txt
+   42  ls
+   43  mkdir data
+   44  ls
+   45  mv foo2.txt data
+   46  ls
+   47  ls /data
+   48  clear
+   49  ls
+   50  cd unix/
+   51  ls
+   52  ls data/
+   53  mkdir new
+   54  ls
+   55  mv data/foo2.txt new
+   56  ls
+   57  ls data/
+   58  ls new/
+   59  ls
+   60  cd new/
+   61  mv foo2.txt  unix/
+   62  mv foo2.txt  ../unix
+   63  ls
+   64  cd ..
+   65  ls
+   66  rmdir unix
+   67  rm unix
+   68  ls
+   69  cd new/
+   70  touch foo2.txt
+   71  ls
+   72  mv foo2.txt  ../foo-old.txt
+   73  ls
+   74  cd ..
+   75  ls
+   76  rm foo-old.txt 
+   77  ls
+   78  rmdir new/
+   79  ls
+   80  history>>exo1.txt
